@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-invoicing-dart-mobile",
+  "capabilityKey": "liberusoftware/module-billing-invoicing",
+  "presentation": "dart-mobile",
+  "package": "module_billing_invoicing_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/billing/nextjs/invoicing.md",
+  "presentationPlan": "projects/billing/features/invoicing.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
